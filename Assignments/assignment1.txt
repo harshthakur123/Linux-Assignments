@@ -1,0 +1,40 @@
+one
+	apple
+	banana
+	cat
+	dog
+	elephant
+two
+	fish
+	gun
+	horse
+	icecream
+three
+	jelly
+	kitkat
+	lolipop
+	marshmallow
+four
+	new
+	oppo
+	vivo
+	china
+/home -> mkdir EVERYONE
+chmod 777 EVERYONE 
+Create a file with every user (whoami >> username.txt)
+
+oppo -> primary group change -> one
+vivo -> primary group change -> two
+
+jelly,kitkat, lolipop, marshmallow -> add these users to sudo group
+
+fish,gun -> add these users to one group as well (secondary group)
+
+
+
+
+
+
+
+
+
